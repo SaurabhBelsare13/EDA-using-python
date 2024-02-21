@@ -15,6 +15,10 @@ This dataset encompasses 15 columns, including athlete ID, Name, Sex, Age, Heigh
 For this analysis, I used Python's versatile data analysis tools, such as Pandas, Matplotlib, and Seaborn. These libraries enabled me to clean, preprocess, visualize, and analyze the dataset effectively. From data wrangling to exploratory visualizations, I employed a systematic approach to uncover meaningful patterns and trends within the data.
 
 ## Key Findings from the Analysis:
+- Top-Performting Country: The analysis reveals the countries with the highest number of medals won across Olympic history, showcasing their dominance in various sporting events.
+- Tallest Athlete among all sports.
+- Avg. Weights of Male and Female Athletes.
+- Avg. Age of Athletes and so on.
 
 ## Illustrating Insights through Graphs and Charts:
 Visualizations such as bar charts, box plots, violin plots, hist plots, count plots, heat map and scatter plots were utilized to effectively communicate the findings of the analysis. These graphical representations provide a clear and concise overview of the dataset's insights, making it easier to interpret the trends observed.
